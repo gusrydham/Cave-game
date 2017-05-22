@@ -11,4 +11,4 @@ declare -a DIRS=(
 for DIR in ${DIRS[@]}
 do
     javac ${DIR}*.java
-done
+done 
