@@ -28,3 +28,14 @@ För att köra programmet skriver du
  " java $FLAGS -cp "sqlite-jdbc-3.16.1.jar:." se.itu.game.main.MainGui "
 Om du använder en Windows-dator använder du istället: “ java $FLAGS -cp "sqlite-jdbc-3.16.1.jar;." se.itu.game.main.MainGui “
 
+------------------------------------------------------------------------------------------------------------------------------------
+
+How to play the game:
+
+To move around, use the buttons on the left named north, south, east and west. If you are unable to press a button, there is no room in that direction. 
+
+To pick up items from a room, double click the item in the list to your right calles "Things in room". 
+To drop items, double click the item in the list to the left called "Inventory".
+
+
+
